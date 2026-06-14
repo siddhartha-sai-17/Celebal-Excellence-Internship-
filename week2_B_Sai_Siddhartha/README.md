@@ -46,8 +46,7 @@ tesla_ml_pipeline/
 ├── requirements.txt
 └── README.md
 ```
-
-## Quick Start
+#Quick Start
 
 ```bash
 # 1. Install dependencies
